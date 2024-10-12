@@ -60,3 +60,10 @@
   }
   </style>
   
+
+  <!-- <span>+33 07 53 19 62 26</span> -->
+  <!-- <a href="www.linkedin.com/in/touadia-koné-b194b51b2" class="text-blue-600 hover:underline"
+  target="_blank"> -->
+  <!-- <a href="mailto:konetouadia@gmail.com" class="text-blue-600 hover:underline">
+    konetouadia@gmail.com
+  </a> -->

@@ -7,14 +7,14 @@
     <router-view />
 
     <!-- Optionnel : Ajouter un footer si tu en as besoin -->
-    <Footer />
+    <!-- <Footer /> -->
   </div>
 </template>
 
 <script setup>
 // Importer la navbar pour l'utiliser globalement
 import Navbar from '~/components/Navbar.vue'
-import Footer from '~/components/Footer.vue'
+// import Footer from '~/components/Footer.vue'
 
 </script>
 
